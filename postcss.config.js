@@ -7,7 +7,7 @@ module.exports = {
                 'Chrome >= 52',
                 'FireFox >= 44',
                 'Safari >= 7',
-                'Explorer >= 11',
+                'Explorer >= 9',
                 'last 2 Edge versions',
             ],
         },
